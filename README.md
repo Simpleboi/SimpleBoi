@@ -24,14 +24,15 @@ I slowly fell in love with Coding and continuned to study and learn as I went. I
 ## GitHub Stats
 ![SimpleBoi](https://github-readme-stats.vercel.app/api?username=SimpleBoi&show_icons=true&theme=radical)
 
-## Current Project I'm Working On 
-- [SimplyPi] A web platform where users can download course materials and PDFs on topics like Algebra and Calculus.
+## 🔭 Current Project I'm Working On 
+- A web platform called "SimplyPi" where users can download course materials and PDFs on topics like Algebra and Calculus.
 
-## Currently Learning
+## 🌱 Currently Learning
 - React Routing 
-- Servers
+- SSR
+- Typescript
 
-## Contact Me
+## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n8.p03/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jv3studios@gmail.com)
