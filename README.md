@@ -1,19 +1,15 @@
-## Good Morning!
+## Good Morning!👋 
 
 # About Me:
 **`Web Developer & Computer Scientist`**<br/>
 I'm an aspiring full-stack web developer and computer scientist trying to build my own version of the digitial world
 one piece of code at a time. I started coding when I was in my Somphore year of Highschool by taking AP Computer Science.
 I slowly fell in love with Coding and continuned to study and learn as I went. I'm currently a sophmore attending San Jacinto College majoring in Computer Science, and have been involved in my major. 
-
 <br/>
-
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Additional Skills:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +25,7 @@ I slowly fell in love with Coding and continuned to study and learn as I went. I
 ![SimpleBoi](https://github-readme-stats.vercel.app/api?username=SimpleBoi&show_icons=true&theme=radical)
 
 ## Current Project I'm Working On 
-[SimplyPi] A web platform where users can download course materials and PDFs on topics like Algebra and Calculus.
+- [SimplyPi] A web platform where users can download course materials and PDFs on topics like Algebra and Calculus.
 
 ## Currently Learning
 - React Routing 
@@ -42,7 +38,7 @@ I slowly fell in love with Coding and continuned to study and learn as I went. I
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
 
-## Random Dev Quote
+## Inspriing Quote
 > "Nah" – Rosa Parks
 
 ## GitHub Contribution Graph
