@@ -1,11 +1,11 @@
-## Hi there 👋
-
+## Good Morning!
 
 # About Me:
 **`Web Developer & Computer Scientist`**<br/>
 I'm an aspiring full-stack web developer and computer scientist trying to build my own version of the digitial world
-one piece of code at a time. I'm currently a sophmore attending San Jacinto College majoring in Computer Science. 
-I've won first place at BPA 2022 in Python Programming, and placed 5th at State two months after. 
+one piece of code at a time. I started coding when I was in my Somphore year of Highschool by taking AP Computer Science.
+I slowly fell in love with Coding and continuned to study and learn as I went. I'm currently a sophmore attending San Jacinto College majoring in Computer Science, and have been involved in my major. 
+
 <br/>
 
 ## Skills
@@ -22,27 +22,31 @@ I've won first place at BPA 2022 in Python Programming, and placed 5th at State 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## Projects
-- [SimplyPi](https://github.com/username/simplypi): A web platform where users can download course materials and PDFs on topics like Algebra and Calculus.
-- [Jeopardy Game](https://github.com/username/jeopardy-game): A trivia game that tests users' programming knowledge across multiple categories like HTML, CSS, and Python.
+- [SJC CompSci](https://github.com/Simpleboi/computer_science_club): A Website for the SJC South campus Computer Science Club.
+- [Jeopardy Clone](https://github.com/username/jeopardy-game): A trivia game that tests users' programming knowledge across multiple categories like HTML, CSS, and Python.
 
 ## GitHub Stats
-![SimpleBoi](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![SimpleBoi](https://github-readme-stats.vercel.app/api?username=SimpleBoi&show_icons=true&theme=radical)
+
+## Current Project I'm Working On 
+[SimplyPi] A web platform where users can download course materials and PDFs on topics like Algebra and Calculus.
 
 ## Currently Learning
-- React Hooks
-- SCSS 
-- TypeScript
+- React Routing 
+- Servers
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Instagram](https://www.instagram.com/n8.p03/)
-- [Email](mailto:Jv3studios@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n8.p03/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jv3studios@gmail.com)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
 
 ## Random Dev Quote
-> "The only way to do great work is to love what you do." – Steve Jobs
+> "Nah" – Rosa Parks
 
 ## GitHub Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SimpleBoi&theme=react-dark)
 
 
 <!--
