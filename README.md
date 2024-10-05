@@ -2,9 +2,7 @@
 
 # About Me:
 **`Web Developer & Computer Scientist`**<br/>
-I'm an aspiring full-stack web developer and computer scientist trying to build my own version of the digitial world
-one piece of code at a time. I started coding when I was in my Somphore year of Highschool by taking AP Computer Science.
-I slowly fell in love with Coding and continuned to study and learn as I went. I'm currently a sophmore attending San Jacinto College majoring in Computer Science, and have been involved in my major. 
+I'm an aspiring full-stack web developer and computer scientist, dedicated to contributing to the digital world one line of code at a time. My journey began in my sophomore year of high school when I took AP Computer Science, and from there, I developed a deep love for programming. Since then, I've continued to grow, learning and building as I go. I've won first place at my junior year BPA competion in Python Programming and competed in numerous programming competitions since. Currently, I am a sophomore at San Jacinto College, majoring in Computer Science. I'm actively involved in my field, serving as the President of the Computer Science Club on the South Campus, and I'm also a co-owner of the SJC Computer Science Organization. 
 <br/>
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
