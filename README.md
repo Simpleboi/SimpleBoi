@@ -45,7 +45,7 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/yourchannel)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
 
-## Inspriing Quote
+## Inspring Quote
 > "Nah" – Rosa Parks
 
 ## GitHub Contribution Graph
